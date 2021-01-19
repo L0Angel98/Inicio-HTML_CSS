@@ -1,0 +1,27 @@
+/***********************
+General
+***********************/
+h1{
+  color: blue;
+  margin: 0 0 1em 0;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+a{
+  text-decoration:none;
+}
+
+.Menu{
+  color: green;
+}
+
+.a-class#inicio{
+  color: red;
+}
+
+div > code{
+  color: yellow;
+}
